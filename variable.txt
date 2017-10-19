@@ -1,0 +1,24 @@
+int a
+int b
+float x
+float y
+bool z
+bool w
+int m
+int n
+Eliminada variable de instancia m
+Eliminada variable de instancia n
+int m
+int n
+Eliminada variable de instancia m
+Eliminada variable de instancia n
+int m
+int n
+Eliminada variable de instancia m
+Eliminada variable de instancia n
+Eliminada variable de instancia z
+Eliminada variable de instancia w
+Eliminada variable de instancia a
+Eliminada variable de instancia b
+Eliminada variable de instancia x
+Eliminada variable de instancia y

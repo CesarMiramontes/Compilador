@@ -1,0 +1,33 @@
+program{
+	int a, b;
+	float x, y;
+	bool z, w;
+	do{
+		if(a == 0){
+			int m, n;
+			read x;
+			read y;
+			m = 8 + 1;
+			write x + y;
+		}else{ 
+			int m, n;
+			read x;
+			write x;
+			
+			write x - 1.58785 * (20/x);
+		}fi
+		x = 27.33 + b;
+	}until(a < b);
+	//m = 1;
+	while(z and w){
+		int m, n;
+		read x;
+		write x;
+		write x - 1.58785 * (20/x);
+	}
+	//bool z, s;
+	//int x, y;
+	z = 1;
+	//m = 21;
+	z = z and w and a < x/y;
+}

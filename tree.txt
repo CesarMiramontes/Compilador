@@ -1,0 +1,86 @@
+int
+	 a
+	 b
+float
+	 x
+	 y
+bool
+	 z
+	 w
+do
+	 if
+			 ==
+					 a
+					 0
+			 int
+					 m
+					 n
+			 read
+					 x
+			 read
+					 y
+			 =
+					 m
+					 +
+							 8
+							 1
+			 write
+					 +
+							 x
+							 y
+			 int
+					 m
+					 n
+			 read
+					 x
+			 write
+					 x
+			 write
+					 -
+							 x
+							 *
+									 1.58785
+									 /
+											 20
+											 x
+	 =
+			 x
+			 +
+					 27.33
+					 b
+	 <
+			 a
+			 b
+while
+	 and
+			 z
+			 w
+	 int
+			 m
+			 n
+	 read
+			 x
+	 write
+			 x
+	 write
+			 -
+					 x
+					 *
+							 1.58785
+							 /
+									 20
+									 x
+=
+	 z
+	 1
+=
+	 z
+	 and
+			 and
+					 z
+					 w
+			 <
+					 a
+					 /
+							 x
+							 y
